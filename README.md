@@ -23,6 +23,7 @@ This is a vagrant box for working with flask and mysql.  nginx + uwsgi support i
   * Port: 3306
   * Username: testuser
   * Password: testuser_pwd
+5. Point your browser to http://192.168.66.66:5000
 
 ### Changing Parameters
 
