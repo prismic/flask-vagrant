@@ -1,0 +1,5 @@
+base:
+  '*':
+    - essentials
+    - mysql
+    - flask

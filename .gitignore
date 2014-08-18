@@ -1,0 +1,27 @@
+#OS stuff
+.DS_STORE?
+._*
+.Spotlight-V100
+.Trashes
+*~
+*.lock
+*.swp
+Thumbs.db
+ehthumbs.db
+
+#eclipse
+.project
+.pydevproject
+.settings/
+
+#intellij
+.idea/
+*.iml
+*.iws
+
+#vagrant
+.vagrant
+
+#python stuff
+*.pot
+*.pyc
