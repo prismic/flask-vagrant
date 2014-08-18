@@ -19,10 +19,10 @@ This is a vagrant box for working with flask and mysql.  nginx + uwsgi support i
 2. `cd /vagrant/src`
 3. `python hello.py` to start the development server
 4. Connect to the MySQL server:
-    Server: 192.168.66.66
-    Port: 3306
-    Username: testuser
-    Password: testuser_pwd
+  * Server: 192.168.66.66
+  * Port: 3306
+  * Username: testuser
+  * Password: testuser_pwd
 
 ### Changing Parameters
 
